@@ -1,0 +1,2 @@
+- **Reference / Inspiration ⬇️**
+  - [@manzdev teacher inspiration](https://youtu.be/enQcc4l-P3c?si=tLlHr6XejVDBrd-M)
