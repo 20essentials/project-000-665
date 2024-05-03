@@ -1,17 +1,17 @@
 @font-face {
   font-family: 'BioRhyme';
-  src: url(/assets/biorhyme.woff) format('woff');
+  src: url(assets/biorhyme.woff) format('woff');
 }
 
 @font-face {
   font-family: 'Code';
-  src: url(/assets/code.woff2) format('woff');
+  src: url(assets/code.woff2) format('woff');
 }
 
 @font-face {
   font-family: 'Desyrel';
-  src: url(/assets/desyrel.woff) format('woff'),
-    url(/assets/desyrel.woff2) format('woff2');
+  src: url(assets/desyrel.woff) format('woff'),
+    url(assets/desyrel.woff2) format('woff2');
 }
 
 :root {
